@@ -18,4 +18,4 @@ Department,
 
 Salary,
 
-Whether the employee has left,
+Whether the employee has left
